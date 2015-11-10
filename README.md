@@ -1,4 +1,2 @@
 # prueba
-Añadiendo una variación inicial al fichero README.md
-
-Variando desde gitHub.
+Repositorio para la realización de ejercicios del tema de git
