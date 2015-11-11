@@ -4,11 +4,7 @@
 //y mediante el  método calcularInteres de la
 //clase  Interes muestra por pantalla el interés
 //calculado
-/**
- *@author: Juan Martinez Medina
- *@version: Primera 1.0
- * 
- * **/
+
 import java.util.Scanner;
 
 public class TesInteres{

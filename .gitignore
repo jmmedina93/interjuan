@@ -1,5 +1,5 @@
 # ignoramos los bytecodes
 *.class
 
-#ignoramos los doc
+#i gnoramos los doc
 ./doc/
