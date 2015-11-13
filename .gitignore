@@ -2,4 +2,4 @@
 *.class
 
 #i gnoramos los doc
-./doc/
+/doc/

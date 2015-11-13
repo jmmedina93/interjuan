@@ -37,7 +37,13 @@ public class InteresCompuesto{
 	* @param tasadeinteres tasa de interes
 	* @return resultado 
 	**/
-	double I= Capital*tiempo*tasadeinteres;
+	double I;
+	double parentesis=1+tasadeinteres;
+	double aux=1;
+		for(int x=0; x < tiempo; x++){
+			aux=aux*parentesis;
+		}
+		I=Capital*aux;	
 	return I;
 	}
 }
